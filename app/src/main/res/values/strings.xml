@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quezzz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="txt_laravel">Laravel</string>
+    <string name="txt_harvey_cantwell">Harvey Cantwell</string>
+    <string name="txt_rules">Rules</string>
+    <string name="txt_info">Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_welcome_to">Welcome to</string>
+    <string name="txt_start">Start</string>
+    <string name="txt_congrats">Congrats</string>
+    <string name="txt_sub_won">You have past this level and get a bonus.</string>
+    <string name="txt_got_it">Got It</string>
+    <string name="txt_hrvy_email">harveycantwell@gmail.com</string>
+    <string name="txt_question">Question ?</string>
+    <string name="txt_option_1">Option 1</string>
+    <string name="txt_option_2">Option 2</string>
+    <string name="txt_option_3">Option 3</string>
+    <string name="txt_option_4">Option 4</string>
+    <string name="txt_go_back">Go Back</string>
+    <string name="title_quezz">Quezz (%1$d/%2$d)</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_oh_no_sorry">Oh, no Sorry</string>
+    <string name="txt_next_time_you_must_be_lucky">Next time \n you must be lucky.</string>
+</resources>
